@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c3b391b-e2b8-4fa8-8b51-64c17b4125a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/controller/addTitleServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/controller/addTitleServlet.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1gfHgcOBAAx8Hwk61hy79tDWHVl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../迅雷下载/apache-tomcat-9.0.37/lib/jsp-api.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c3b391b-e2b8-4fa8-8b51-64c17b4125a6" name="Default Changelist" comment="" />
+      <created>1598498838357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598498838357</updated>
+      <workItem from="1598498839646" duration="9000" />
+      <workItem from="1598498871877" duration="311000" />
+      <workItem from="1598499294542" duration="851000" />
+    </task>
+    <task id="LOCAL-00001" summary="在线考试管理系统">
+      <created>1598499034267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598499034267</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="在线考试管理系统" />
+    <option name="LAST_COMMIT_MESSAGE" value="在线考试管理系统" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="176" y="0" key="CommitChangelistDialog2" timestamp="1598499033192">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="176" y="0" key="CommitChangelistDialog2/0.0.1280.770@0.0.1280.770" timestamp="1598499033192" />
+    <state x="421" y="126" key="FileChooserDialogImpl" timestamp="1598500142508">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="421" y="126" key="FileChooserDialogImpl/0.0.1280.770@0.0.1280.770" timestamp="1598500142508" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1598500146341">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1598500146341" />
+    <state x="249" y="101" key="Vcs.Push.Dialog.v2" timestamp="1598499131133">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="249" y="101" key="Vcs.Push.Dialog.v2/0.0.1280.770@0.0.1280.770" timestamp="1598499131133" />
+  </component>
+</project>
