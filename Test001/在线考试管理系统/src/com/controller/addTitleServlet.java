@@ -12,7 +12,6 @@ import java.io.PrintWriter;
 
 public class addTitleServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-
     }
     //添加题目
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
