@@ -10,8 +10,8 @@
     <orderEntry type="library" exported="" name="jackson-core-2.10.3" level="project" />
     <orderEntry type="library" exported="" name="jackson-databind-2.11.0" level="project" />
     <orderEntry type="library" exported="" name="mysql-connector-java-8.0.21 (3)" level="project" />
-    <orderEntry type="library" name="servlet-api" level="project" />
-    <orderEntry type="library" name="Java EE 6" level="project" />
     <orderEntry type="library" name="jsp-api" level="project" />
+    <orderEntry type="library" name="servlet-api" level="project" />
+    <orderEntry type="library" name="Java EE 6-Java EE 6" level="application" />
   </component>
 </module>
