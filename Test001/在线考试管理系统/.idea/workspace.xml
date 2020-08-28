@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c3b391b-e2b8-4fa8-8b51-64c17b4125a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/在线考试管理系统.iml" beforeDir="false" afterPath="$PROJECT_DIR$/在线考试管理系统.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +184,7 @@
       <workItem from="1598498871877" duration="311000" />
       <workItem from="1598499294542" duration="1796000" />
       <workItem from="1598530883145" duration="1872000" />
-      <workItem from="1598588972158" duration="1787000" />
+      <workItem from="1598588972158" duration="3180000" />
     </task>
     <task id="LOCAL-00001" summary="在线考试管理系统">
       <created>1598499034267</created>
@@ -201,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598499034267</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="在线考试管理系统全">
+      <created>1598591374312</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598591374312</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,7 +209,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="在线考试管理系统" />
-    <option name="LAST_COMMIT_MESSAGE" value="在线考试管理系统" />
+    <MESSAGE value="在线考试管理系统全" />
+    <option name="LAST_COMMIT_MESSAGE" value="在线考试管理系统全" />
   </component>
   <component name="WindowStateProjectService">
     <state x="173" y="0" key="#Project_Structure" timestamp="1598501021702">
@@ -221,10 +221,10 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="147" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.770@0.0.1280.770" timestamp="1598501030702" />
-    <state x="176" y="0" key="CommitChangelistDialog2" timestamp="1598499033192">
+    <state x="176" y="0" key="CommitChangelistDialog2" timestamp="1598591373383">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="176" y="0" key="CommitChangelistDialog2/0.0.1280.770@0.0.1280.770" timestamp="1598499033192" />
+    <state x="176" y="0" key="CommitChangelistDialog2/0.0.1280.770@0.0.1280.770" timestamp="1598591373383" />
     <state x="474" y="117" key="FileChooserDialogImpl" timestamp="1598589388293">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
@@ -233,9 +233,9 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1598500674266" />
-    <state x="249" y="101" key="Vcs.Push.Dialog.v2" timestamp="1598590722377">
+    <state x="249" y="101" key="Vcs.Push.Dialog.v2" timestamp="1598591422271">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="249" y="101" key="Vcs.Push.Dialog.v2/0.0.1280.770@0.0.1280.770" timestamp="1598590722377" />
+    <state x="249" y="101" key="Vcs.Push.Dialog.v2/0.0.1280.770@0.0.1280.770" timestamp="1598591422271" />
   </component>
 </project>
