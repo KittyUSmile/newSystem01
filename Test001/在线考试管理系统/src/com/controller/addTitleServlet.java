@@ -2,7 +2,6 @@ package com.controller;
 
 import com.Dao.titleDao;
 import com.entity.title;
-
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;

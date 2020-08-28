@@ -2,7 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c3b391b-e2b8-4fa8-8b51-64c17b4125a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../01_在线考试管理系统/01_在线考试管理系统.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AJAX实例/AJAX实例.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EL实操/EL实操.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FilterTest/FilterTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HttpServletRequest接口的相关介绍/HttpServletRequest接口的相关介绍.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HttpServletResponse接口的相关介绍/HttpServletResponse接口的相关介绍.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuery实例/JQuery实例.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP文件JAVA命令书写规则/JSP文件JAVA命令书写规则.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode试题/LeetCode试题.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servlet接口实现类/Servlet接口实现类.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servlet接口实现类/Servlet接口实现类001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servlet生命周期/Servlet生命周期.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test01/Test01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test02/Test02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test03/Test03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jsp-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../简单的数据库操作Servlet/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../简单的数据库操作Servlet/.idea/libraries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../简单的数据库操作Servlet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../简单的数据库操作Servlet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../简单的数据库操作Servlet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../简单的数据库操作Servlet/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../简单的数据库操作Servlet/web/lib/jsp-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../简单的数据库操作Servlet/web/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../简单的数据库操作Servlet/简单的数据库操作Servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../级联查询/级联查询.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.annotation.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.ejb.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.jms.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.persistence.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.resource.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.transaction.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/controller/addTitleServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/controller/addTitleServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/在线考试管理系统.iml" beforeDir="false" afterPath="$PROJECT_DIR$/在线考试管理系统.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +51,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1gfHgcOBAAx8Hwk61hy79tDWHVl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -26,19 +69,25 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+    <property name="project.structure.side.proportion" value="0.20689656" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaEE\Test001\在线考试管理系统\web\WEB-INF\lib" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.37" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.37" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
@@ -184,7 +233,11 @@
       <workItem from="1598498871877" duration="311000" />
       <workItem from="1598499294542" duration="1796000" />
       <workItem from="1598530883145" duration="1872000" />
-      <workItem from="1598588972158" duration="3180000" />
+      <workItem from="1598588972158" duration="6137000" />
+      <workItem from="1598599961453" duration="894000" />
+      <workItem from="1598600965458" duration="9000" />
+      <workItem from="1598601107051" duration="850000" />
+      <workItem from="1598602536696" duration="663000" />
     </task>
     <task id="LOCAL-00001" summary="在线考试管理系统">
       <created>1598499034267</created>
@@ -200,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598591374312</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="在线考试管理系统全">
+      <created>1598593857647</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598593857647</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,21 +281,33 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="147" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.770@0.0.1280.770" timestamp="1598501030702" />
-    <state x="176" y="0" key="CommitChangelistDialog2" timestamp="1598591373383">
+    <state x="176" y="0" key="CommitChangelistDialog2" timestamp="1598593856717">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="176" y="0" key="CommitChangelistDialog2/0.0.1280.770@0.0.1280.770" timestamp="1598591373383" />
-    <state x="474" y="117" key="FileChooserDialogImpl" timestamp="1598589388293">
+    <state x="176" y="0" key="CommitChangelistDialog2/0.0.1280.770@0.0.1280.770" timestamp="1598593856717" />
+    <state x="444" y="257" key="DetectedRootsChooserDialog" timestamp="1598599695948">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="474" y="117" key="FileChooserDialogImpl/0.0.1280.770@0.0.1280.770" timestamp="1598589388293" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1598500674266">
+    <state x="444" y="257" key="DetectedRootsChooserDialog/0.0.1280.770@0.0.1280.770" timestamp="1598599695948" />
+    <state x="530" y="80" key="FileChooserDialogImpl" timestamp="1598602623772">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1598500674266" />
-    <state x="249" y="101" key="Vcs.Push.Dialog.v2" timestamp="1598591422271">
+    <state x="530" y="80" key="FileChooserDialogImpl/0.0.1280.770@0.0.1280.770" timestamp="1598602623772" />
+    <state x="493" y="283" width="293" height="278" key="Github.ShareDialog" timestamp="1598595077148">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="249" y="101" key="Vcs.Push.Dialog.v2/0.0.1280.770@0.0.1280.770" timestamp="1598591422271" />
+    <state x="493" y="283" width="293" height="278" key="Github.ShareDialog/0.0.1280.770@0.0.1280.770" timestamp="1598595077148" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1598603199477">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1598603199477" />
+    <state x="249" y="101" key="Vcs.Push.Dialog.v2" timestamp="1598595453935">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="249" y="101" key="Vcs.Push.Dialog.v2/0.0.1280.770@0.0.1280.770" timestamp="1598595453935" />
+    <state x="304" y="93" width="672" height="678" key="search.everywhere.popup" timestamp="1598601243904">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="304" y="93" width="672" height="678" key="search.everywhere.popup/0.0.1280.770@0.0.1280.770" timestamp="1598601243904" />
   </component>
 </project>
