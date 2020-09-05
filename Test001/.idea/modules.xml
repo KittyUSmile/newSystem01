@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HttpServletRequest接口的相关介绍/HttpServletRequest接口的相关介绍.iml" filepath="$PROJECT_DIR$/HttpServletRequest接口的相关介绍/HttpServletRequest接口的相关介绍.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpServletResponse接口的相关介绍/HttpServletResponse接口的相关介绍.iml" filepath="$PROJECT_DIR$/HttpServletResponse接口的相关介绍/HttpServletResponse接口的相关介绍.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet接口实现类/Servlet接口实现类.iml" filepath="$PROJECT_DIR$/Servlet接口实现类/Servlet接口实现类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet接口实现类/Servlet接口实现类001.iml" filepath="$PROJECT_DIR$/Servlet接口实现类/Servlet接口实现类001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet生命周期/Servlet生命周期.iml" filepath="$PROJECT_DIR$/Servlet生命周期/Servlet生命周期.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test01/Test01.iml" filepath="$PROJECT_DIR$/Test01/Test01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test02/Test02.iml" filepath="$PROJECT_DIR$/Test02/Test02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test03/Test03.iml" filepath="$PROJECT_DIR$/Test03/Test03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test04/Tst04.iml" filepath="$PROJECT_DIR$/Test04/Tst04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test03/在线考试管理系统.iml" filepath="$PROJECT_DIR$/Test03/在线考试管理系统.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test03/考试在线管理系统.iml" filepath="$PROJECT_DIR$/Test03/考试在线管理系统.iml" />
+    </modules>
+  </component>
+</project>

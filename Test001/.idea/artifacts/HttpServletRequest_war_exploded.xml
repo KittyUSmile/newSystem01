@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="HttpServletRequest:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/HttpServletRequest_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="HttpServletRequest接口的相关介绍/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="HttpServletRequest接口的相关介绍" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
