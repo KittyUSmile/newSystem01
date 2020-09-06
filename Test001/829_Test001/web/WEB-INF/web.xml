@@ -191,13 +191,13 @@
     <welcome-file-list>
         <welcome-file>main.html</welcome-file>
     </welcome-file-list>
-    <!--        对所有访问过滤-->
-    <filter>
-        <filter-name>oneFilter</filter-name>
-        <filter-class>com.filter.oneFilter</filter-class>
-    </filter>
-    <filter-mapping>
-        <filter-name>oneFilter</filter-name>
-        <url-pattern>/*</url-pattern>
-    </filter-mapping>
+<!--    &lt;!&ndash;        对所有访问过滤&ndash;&gt;-->
+<!--    <filter>-->
+<!--        <filter-name>oneFilter</filter-name>-->
+<!--        <filter-class>com.filter.oneFilter</filter-class>-->
+<!--    </filter>-->
+<!--    <filter-mapping>-->
+<!--        <filter-name>oneFilter</filter-name>-->
+<!--        <url-pattern>/*</url-pattern>-->
+<!--    </filter-mapping>-->
 </web-app>
